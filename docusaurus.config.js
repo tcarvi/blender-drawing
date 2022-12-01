@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tcarvi/blender-drawing',
+            'https://github.com/tcarvi/blender-drawing/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tcarvi/blender-drawing',
+            'https://github.com/tcarvi/blender-drawing/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
